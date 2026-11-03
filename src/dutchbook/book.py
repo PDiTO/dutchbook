@@ -363,8 +363,9 @@ def _simplex_slsqp(e: Array, p: Array) -> Array:
         constraints=[{"type": "eq", "fun": lambda lam: np.array([lam.sum() - 1.0])}],
         options={"maxiter": 1000, "ftol": 1e-15},
     )
-    lam = np.clip(np.asarray(res.x, dtype=float), 0.0, None)
-    return lam / lam.sum()
+    lam: Array = np.clip(np.asarray(res.x, dtype=float), 0.0, None)
+    out: Array = lam / lam.sum()
+    return out
 
 
 def _tup(x: Array) -> tuple[float, ...]:
