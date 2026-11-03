@@ -1,0 +1,4372 @@
+{
+ "seed": 20261103,
+ "as_of": "3 November 2026",
+ "propositions": [
+  {
+   "id": "btc.gt.55000",
+   "text": "Will the price of one bitcoin in US dollars be above $55,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.gt.65000",
+   "text": "Will the price of one bitcoin in US dollars be above $65,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.gt.70000",
+   "text": "Will the price of one bitcoin in US dollars be above $70,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.gt.85000",
+   "text": "Will the price of one bitcoin in US dollars be above $85,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.gt.130000",
+   "text": "Will the price of one bitcoin in US dollars be above $130,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.le.55000",
+   "text": "Will the price of one bitcoin in US dollars be at or below $55,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.bin.55000_to_65000",
+   "text": "Will the price of one bitcoin in US dollars be above $55,000 and at or below $65,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.bin.65000_to_70000",
+   "text": "Will the price of one bitcoin in US dollars be above $65,000 and at or below $70,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.bin.70000_to_85000",
+   "text": "Will the price of one bitcoin in US dollars be above $70,000 and at or below $85,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.bin.85000_to_130000",
+   "text": "Will the price of one bitcoin in US dollars be above $85,000 and at or below $130,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.le.70000",
+   "text": "Will the price of one bitcoin in US dollars be at or below $70,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "btc"
+  },
+  {
+   "id": "btc.gt.70000.alt",
+   "text": "On 30 June 2027, will CoinGecko's daily closing price for bitcoin exceed $70,000?",
+   "topic": "btc"
+  },
+  {
+   "id": "eth.gt.1300",
+   "text": "Will the price of one ether (ETH) in US dollars be above $1,300 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.gt.2200",
+   "text": "Will the price of one ether (ETH) in US dollars be above $2,200 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.gt.2400",
+   "text": "Will the price of one ether (ETH) in US dollars be above $2,400 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.gt.3000",
+   "text": "Will the price of one ether (ETH) in US dollars be above $3,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.gt.3500",
+   "text": "Will the price of one ether (ETH) in US dollars be above $3,500 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.le.1300",
+   "text": "Will the price of one ether (ETH) in US dollars be at or below $1,300 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.bin.1300_to_2200",
+   "text": "Will the price of one ether (ETH) in US dollars be above $1,300 and at or below $2,200 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.bin.2200_to_2400",
+   "text": "Will the price of one ether (ETH) in US dollars be above $2,200 and at or below $2,400 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.bin.2400_to_3000",
+   "text": "Will the price of one ether (ETH) in US dollars be above $2,400 and at or below $3,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.bin.3000_to_3500",
+   "text": "Will the price of one ether (ETH) in US dollars be above $3,000 and at or below $3,500 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.le.2400",
+   "text": "Will the price of one ether (ETH) in US dollars be at or below $2,400 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "eth"
+  },
+  {
+   "id": "eth.gt.2400.alt",
+   "text": "On 30 June 2027, will CoinGecko's daily closing price for ether exceed $2,400?",
+   "topic": "eth"
+  },
+  {
+   "id": "spx.gt.6000",
+   "text": "Will the S&P 500 index be above 6,000 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.gt.6500",
+   "text": "Will the S&P 500 index be above 6,500 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.gt.6900",
+   "text": "Will the S&P 500 index be above 6,900 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.gt.9000",
+   "text": "Will the S&P 500 index be above 9,000 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.gt.9600",
+   "text": "Will the S&P 500 index be above 9,600 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.le.6000",
+   "text": "Will the S&P 500 index be at or below 6,000 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.bin.6000_to_6500",
+   "text": "Will the S&P 500 index be above 6,000 and at or below 6,500 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.bin.6500_to_6900",
+   "text": "Will the S&P 500 index be above 6,500 and at or below 6,900 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.bin.6900_to_9000",
+   "text": "Will the S&P 500 index be above 6,900 and at or below 9,000 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.bin.9000_to_9600",
+   "text": "Will the S&P 500 index be above 9,000 and at or below 9,600 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.le.6900",
+   "text": "Will the S&P 500 index be at or below 6,900 at its official close on 30 June 2027?",
+   "topic": "spx"
+  },
+  {
+   "id": "spx.gt.6900.alt",
+   "text": "When US markets close on 30 June 2027, will the S&P 500 stand higher than 6,900?",
+   "topic": "spx"
+  },
+  {
+   "id": "gold.gt.3300",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $3,300 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.gt.3500",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $3,500 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.gt.3900",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $3,900 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.gt.4700",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $4,700 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.gt.5100",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $5,100 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.le.3300",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be at or below $3,300 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.bin.3300_to_3500",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $3,300 and at or below $3,500 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.bin.3500_to_3900",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $3,500 and at or below $3,900 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.bin.3900_to_4700",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $3,900 and at or below $4,700 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.bin.4700_to_5100",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be above $4,700 and at or below $5,100 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.le.3900",
+   "text": "Will the LBMA Gold Price PM in US dollars per troy ounce be at or below $3,900 on 30 June 2027?",
+   "topic": "gold"
+  },
+  {
+   "id": "gold.gt.3900.alt",
+   "text": "On 30 June 2027, will the afternoon LBMA gold price exceed $3,900 an ounce?",
+   "topic": "gold"
+  },
+  {
+   "id": "brent.gt.70",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $70 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.gt.100",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $100 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.gt.110",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $110 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.gt.120",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $120 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.gt.140",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $140 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.le.70",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be at or below $70 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.bin.70_to_100",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $70 and at or below $100 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.bin.100_to_110",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $100 and at or below $110 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.bin.110_to_120",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $110 and at or below $120 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.bin.120_to_140",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be above $120 and at or below $140 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.le.110",
+   "text": "Will the front-month Brent crude oil futures settlement price in US dollars per barrel be at or below $110 on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "brent.gt.110.alt",
+   "text": "Will front-month Brent crude settle above $110 a barrel on 30 June 2027?",
+   "topic": "brent"
+  },
+  {
+   "id": "us10y.gt.3.75",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 3.75% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.gt.4.25",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 4.25% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.gt.4.5",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 4.50% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.gt.5.25",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 5.25% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.gt.5.5",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 5.50% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.le.3.75",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be at or below 3.75% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.bin.3.75_to_4.25",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 3.75% and at or below 4.25% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.bin.4.25_to_4.5",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 4.25% and at or below 4.50% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.bin.4.5_to_5.25",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 4.50% and at or below 5.25% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.bin.5.25_to_5.5",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be above 5.25% and at or below 5.50% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.le.4.5",
+   "text": "Will the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) be at or below 4.50% for 30 June 2027?",
+   "topic": "us10y"
+  },
+  {
+   "id": "us10y.gt.4.5.alt",
+   "text": "Will the US Treasury's published 10-year par yield for 30 June 2027 be higher than 4.50%?",
+   "topic": "us10y"
+  },
+  {
+   "id": "unemployment.gt.3.5",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 3.5% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.gt.4.3",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 4.3% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.gt.4.7",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 4.7% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.gt.4.9",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 4.9% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.gt.5.2",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 5.2% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.le.3.5",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be at or below 3.5% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.bin.3.5_to_4.3",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 3.5% and at or below 4.3% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.bin.4.3_to_4.7",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 4.3% and at or below 4.7% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.bin.4.7_to_4.9",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 4.7% and at or below 4.9% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.bin.4.9_to_5.2",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be above 4.9% and at or below 5.2% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.le.4.7",
+   "text": "Will the US unemployment rate (U-3, seasonally adjusted) for June 2027 be at or below 4.7% as first published by the Bureau of Labor Statistics?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "unemployment.gt.4.7.alt",
+   "text": "When the BLS first publishes the June 2027 jobs report, will the headline seasonally adjusted unemployment rate be higher than 4.7%?",
+   "topic": "unemployment"
+  },
+  {
+   "id": "eurusd.gt.0.97",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 0.97 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.gt.1.06",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.06 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.gt.1.08",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.08 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.gt.1.14",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.14 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.gt.1.17",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.17 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.le.0.97",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be at or below 0.97 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.bin.0.97_to_1.06",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 0.97 and at or below 1.06 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.bin.1.06_to_1.08",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.06 and at or below 1.08 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.bin.1.08_to_1.14",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.08 and at or below 1.14 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.bin.1.14_to_1.17",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be above 1.14 and at or below 1.17 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.le.1.08",
+   "text": "Will the ECB euro reference rate against the US dollar (US dollars per euro) be at or below 1.08 on 30 June 2027?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "eurusd.gt.1.08.alt",
+   "text": "On 30 June 2027, will the ECB's euro reference rate be more than 1.08 US dollars?",
+   "topic": "eurusd"
+  },
+  {
+   "id": "starship.by.2027-06-30",
+   "text": "Will a SpaceX Starship spacecraft carry at least one person into orbit between 3 November 2026 and 30 June 2027?",
+   "topic": "starship"
+  },
+  {
+   "id": "starship.by.2028-12-31",
+   "text": "Will a SpaceX Starship spacecraft carry at least one person into orbit between 3 November 2026 and 31 December 2028?",
+   "topic": "starship"
+  },
+  {
+   "id": "starship.by.2030-12-31",
+   "text": "Will a SpaceX Starship spacecraft carry at least one person into orbit between 3 November 2026 and 31 December 2030?",
+   "topic": "starship"
+  },
+  {
+   "id": "starship.notby.2028-12-31",
+   "text": "Will the period from 3 November 2026 to 31 December 2028 pass without a SpaceX Starship spacecraft carrying at least one person into orbit?",
+   "topic": "starship"
+  },
+  {
+   "id": "moon.by.2027-12-31",
+   "text": "Will astronauts land on the surface of the Moon between 3 November 2026 and 31 December 2027?",
+   "topic": "moon"
+  },
+  {
+   "id": "moon.by.2029-12-31",
+   "text": "Will astronauts land on the surface of the Moon between 3 November 2026 and 31 December 2029?",
+   "topic": "moon"
+  },
+  {
+   "id": "moon.by.2030-12-31",
+   "text": "Will astronauts land on the surface of the Moon between 3 November 2026 and 31 December 2030?",
+   "topic": "moon"
+  },
+  {
+   "id": "moon.notby.2029-12-31",
+   "text": "Will the period from 3 November 2026 to 31 December 2029 pass without astronauts landing on the surface of the Moon?",
+   "topic": "moon"
+  },
+  {
+   "id": "btc150.by.2027-06-30",
+   "text": "Will the price of one bitcoin reach $150,000 or more in CoinGecko's daily data between 3 November 2026 and 30 June 2027?",
+   "topic": "btc150"
+  },
+  {
+   "id": "btc150.by.2029-12-31",
+   "text": "Will the price of one bitcoin reach $150,000 or more in CoinGecko's daily data between 3 November 2026 and 31 December 2029?",
+   "topic": "btc150"
+  },
+  {
+   "id": "btc150.by.2030-12-31",
+   "text": "Will the price of one bitcoin reach $150,000 or more in CoinGecko's daily data between 3 November 2026 and 31 December 2030?",
+   "topic": "btc150"
+  },
+  {
+   "id": "btc150.notby.2029-12-31",
+   "text": "Will the period from 3 November 2026 to 31 December 2029 pass without the price of one bitcoin reaching $150,000 or more in CoinGecko's daily data?",
+   "topic": "btc150"
+  },
+  {
+   "id": "bear.by.2027-06-30",
+   "text": "Will the S&P 500 close at least 20% below its highest previous close between 3 November 2026 and 30 June 2027?",
+   "topic": "bear"
+  },
+  {
+   "id": "bear.by.2027-12-31",
+   "text": "Will the S&P 500 close at least 20% below its highest previous close between 3 November 2026 and 31 December 2027?",
+   "topic": "bear"
+  },
+  {
+   "id": "bear.by.2028-12-31",
+   "text": "Will the S&P 500 close at least 20% below its highest previous close between 3 November 2026 and 31 December 2028?",
+   "topic": "bear"
+  },
+  {
+   "id": "bear.notby.2027-12-31",
+   "text": "Will the period from 3 November 2026 to 31 December 2027 pass without the S&P 500 closing at least 20% below its highest previous close?",
+   "topic": "bear"
+  },
+  {
+   "id": "pheic.by.2027-06-30",
+   "text": "Will the World Health Organization declare a new Public Health Emergency of International Concern between 3 November 2026 and 30 June 2027?",
+   "topic": "pheic"
+  },
+  {
+   "id": "pheic.by.2029-12-31",
+   "text": "Will the World Health Organization declare a new Public Health Emergency of International Concern between 3 November 2026 and 31 December 2029?",
+   "topic": "pheic"
+  },
+  {
+   "id": "pheic.by.2030-12-31",
+   "text": "Will the World Health Organization declare a new Public Health Emergency of International Concern between 3 November 2026 and 31 December 2030?",
+   "topic": "pheic"
+  },
+  {
+   "id": "pheic.notby.2029-12-31",
+   "text": "Will the period from 3 November 2026 to 31 December 2029 pass without the World Health Organization declaring a new Public Health Emergency of International Concern?",
+   "topic": "pheic"
+  },
+  {
+   "id": "rejoin.by.2027-06-30",
+   "text": "Will the United Kingdom formally apply to rejoin the European Union between 3 November 2026 and 30 June 2027?",
+   "topic": "rejoin"
+  },
+  {
+   "id": "rejoin.by.2028-12-31",
+   "text": "Will the United Kingdom formally apply to rejoin the European Union between 3 November 2026 and 31 December 2028?",
+   "topic": "rejoin"
+  },
+  {
+   "id": "rejoin.by.2030-12-31",
+   "text": "Will the United Kingdom formally apply to rejoin the European Union between 3 November 2026 and 31 December 2030?",
+   "topic": "rejoin"
+  },
+  {
+   "id": "rejoin.notby.2028-12-31",
+   "text": "Will the period from 3 November 2026 to 31 December 2028 pass without the United Kingdom formally applying to rejoin the European Union?",
+   "topic": "rejoin"
+  },
+  {
+   "id": "us2028.win.jd_vance",
+   "text": "Will JD Vance win the 2028 United States presidential election?",
+   "topic": "us2028"
+  },
+  {
+   "id": "us2028.win.gavin_newsom",
+   "text": "Will Gavin Newsom win the 2028 United States presidential election?",
+   "topic": "us2028"
+  },
+  {
+   "id": "us2028.win.marco_rubio",
+   "text": "Will Marco Rubio win the 2028 United States presidential election?",
+   "topic": "us2028"
+  },
+  {
+   "id": "us2028.win.alexandria_ocasio_cortez",
+   "text": "Will Alexandria Ocasio-Cortez win the 2028 United States presidential election?",
+   "topic": "us2028"
+  },
+  {
+   "id": "us2028.win.wes_moore",
+   "text": "Will Wes Moore win the 2028 United States presidential election?",
+   "topic": "us2028"
+  },
+  {
+   "id": "us2028.other",
+   "text": "Will the 2028 United States presidential election be won by someone other than Alexandria Ocasio-Cortez, Gavin Newsom, JD Vance, Marco Rubio or Wes Moore?",
+   "topic": "us2028"
+  },
+  {
+   "id": "us2028.notwin.jd_vance",
+   "text": "Will the 2028 United States presidential election be won by someone other than JD Vance?",
+   "topic": "us2028"
+  },
+  {
+   "id": "france2027.win.jordan_bardella",
+   "text": "Will Jordan Bardella win the 2027 French presidential election?",
+   "topic": "france2027"
+  },
+  {
+   "id": "france2027.win.marine_le_pen",
+   "text": "Will Marine Le Pen win the 2027 French presidential election?",
+   "topic": "france2027"
+  },
+  {
+   "id": "france2027.win.jean_luc_mélenchon",
+   "text": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
+   "topic": "france2027"
+  },
+  {
+   "id": "france2027.win.édouard_philippe",
+   "text": "Will Édouard Philippe win the 2027 French presidential election?",
+   "topic": "france2027"
+  },
+  {
+   "id": "france2027.win.bruno_retailleau",
+   "text": "Will Bruno Retailleau win the 2027 French presidential election?",
+   "topic": "france2027"
+  },
+  {
+   "id": "france2027.other",
+   "text": "Will the 2027 French presidential election be won by someone other than Bruno Retailleau, Jean-Luc Mélenchon, Jordan Bardella, Marine Le Pen or Édouard Philippe?",
+   "topic": "france2027"
+  },
+  {
+   "id": "france2027.notwin.jordan_bardella",
+   "text": "Will the 2027 French presidential election be won by someone other than Jordan Bardella?",
+   "topic": "france2027"
+  },
+  {
+   "id": "f1_2027.win.max_verstappen",
+   "text": "Will Max Verstappen win the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "f1_2027.win.lando_norris",
+   "text": "Will Lando Norris win the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "f1_2027.win.george_russell",
+   "text": "Will George Russell win the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "f1_2027.win.kimi_antonelli",
+   "text": "Will Kimi Antonelli win the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "f1_2027.win.charles_leclerc",
+   "text": "Will Charles Leclerc win the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "f1_2027.other",
+   "text": "Will the 2027 Formula 1 World Drivers' Championship be won by someone other than Charles Leclerc, George Russell, Kimi Antonelli, Lando Norris or Max Verstappen?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "f1_2027.notwin.max_verstappen",
+   "text": "Will the 2027 Formula 1 World Drivers' Championship be won by someone other than Max Verstappen?",
+   "topic": "f1_2027"
+  },
+  {
+   "id": "cwc2027.win.india",
+   "text": "Will India win the 2027 ICC Men's Cricket World Cup?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "cwc2027.win.australia",
+   "text": "Will Australia win the 2027 ICC Men's Cricket World Cup?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "cwc2027.win.pakistan",
+   "text": "Will Pakistan win the 2027 ICC Men's Cricket World Cup?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "cwc2027.win.england",
+   "text": "Will England win the 2027 ICC Men's Cricket World Cup?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "cwc2027.win.south_africa",
+   "text": "Will South Africa win the 2027 ICC Men's Cricket World Cup?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "cwc2027.other",
+   "text": "Will the 2027 ICC Men's Cricket World Cup be won by a team other than Australia, England, India, Pakistan or South Africa?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "cwc2027.notwin.india",
+   "text": "Will the 2027 ICC Men's Cricket World Cup be won by a team other than India?",
+   "topic": "cwc2027"
+  },
+  {
+   "id": "wwc2027.win.spain",
+   "text": "Will Spain win the 2027 FIFA Women's World Cup?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "wwc2027.win.the_united_states",
+   "text": "Will the United States win the 2027 FIFA Women's World Cup?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "wwc2027.win.france",
+   "text": "Will France win the 2027 FIFA Women's World Cup?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "wwc2027.win.germany",
+   "text": "Will Germany win the 2027 FIFA Women's World Cup?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "wwc2027.win.sweden",
+   "text": "Will Sweden win the 2027 FIFA Women's World Cup?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "wwc2027.other",
+   "text": "Will the 2027 FIFA Women's World Cup be won by a team other than France, Germany, Spain, Sweden or the United States?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "wwc2027.notwin.spain",
+   "text": "Will the 2027 FIFA Women's World Cup be won by a team other than Spain?",
+   "topic": "wwc2027"
+  },
+  {
+   "id": "party2028.win.republican_party_s_nominee",
+   "text": "Will the Republican Party's nominee win the 2028 United States presidential election?",
+   "topic": "party2028"
+  },
+  {
+   "id": "party2028.win.democratic_party_s_nominee",
+   "text": "Will the Democratic Party's nominee win the 2028 United States presidential election?",
+   "topic": "party2028"
+  },
+  {
+   "id": "party2028.win.candidate_of_neither_the_republican_nor_the_democratic_party",
+   "text": "Will the candidate of neither the Republican nor the Democratic Party win the 2028 United States presidential election?",
+   "topic": "party2028"
+  },
+  {
+   "id": "pair.spx.us10y.and",
+   "text": "Will both of these be true: the S&P 500 index is above 6,900 at its official close on 30 June 2027; and the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) is above 4.50% for 30 June 2027?",
+   "topic": "pair.spx.us10y"
+  },
+  {
+   "id": "pair.spx.us10y.or",
+   "text": "Will at least one of these be true: the S&P 500 index is above 6,900 at its official close on 30 June 2027; or the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) is above 4.50% for 30 June 2027?",
+   "topic": "pair.spx.us10y"
+  },
+  {
+   "id": "pair.spx.us10y.given",
+   "text": "Suppose that the US 10-year Treasury par yield (constant maturity, as published by the US Treasury) is above 4.50% for 30 June 2027. In that case, will it also be true that the S&P 500 index is above 6,900 at its official close on 30 June 2027? (If the first part turns out false, the question is void.)",
+   "topic": "pair.spx.us10y"
+  },
+  {
+   "id": "pair.bear.btc.and",
+   "text": "Will both of these be true: the S&P 500 closes at least 20% below its highest previous close between 3 November 2026 and 31 December 2027; and the price of one bitcoin in US dollars is above $70,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "pair.bear.btc"
+  },
+  {
+   "id": "pair.bear.btc.or",
+   "text": "Will at least one of these be true: the S&P 500 closes at least 20% below its highest previous close between 3 November 2026 and 31 December 2027; or the price of one bitcoin in US dollars is above $70,000 at the CoinGecko daily close on 30 June 2027?",
+   "topic": "pair.bear.btc"
+  },
+  {
+   "id": "pair.bear.btc.given",
+   "text": "Suppose that the price of one bitcoin in US dollars is above $70,000 at the CoinGecko daily close on 30 June 2027. In that case, will it also be true that the S&P 500 closes at least 20% below its highest previous close between 3 November 2026 and 31 December 2027? (If the first part turns out false, the question is void.)",
+   "topic": "pair.bear.btc"
+  },
+  {
+   "id": "pair.cwc2027.us2028.and",
+   "text": "Will both of these be true: India wins the 2027 ICC Men's Cricket World Cup; and JD Vance wins the 2028 United States presidential election?",
+   "topic": "pair.cwc2027.us2028"
+  },
+  {
+   "id": "pair.cwc2027.us2028.or",
+   "text": "Will at least one of these be true: India wins the 2027 ICC Men's Cricket World Cup; or JD Vance wins the 2028 United States presidential election?",
+   "topic": "pair.cwc2027.us2028"
+  },
+  {
+   "id": "pair.cwc2027.us2028.given",
+   "text": "Suppose that JD Vance wins the 2028 United States presidential election. In that case, will it also be true that India wins the 2027 ICC Men's Cricket World Cup? (If the first part turns out false, the question is void.)",
+   "topic": "pair.cwc2027.us2028"
+  },
+  {
+   "id": "pair.eth.gold.and",
+   "text": "Will both of these be true: the price of one ether (ETH) in US dollars is above $2,400 at the CoinGecko daily close on 30 June 2027; and the LBMA Gold Price PM in US dollars per troy ounce is above $3,900 on 30 June 2027?",
+   "topic": "pair.eth.gold"
+  },
+  {
+   "id": "pair.eth.gold.or",
+   "text": "Will at least one of these be true: the price of one ether (ETH) in US dollars is above $2,400 at the CoinGecko daily close on 30 June 2027; or the LBMA Gold Price PM in US dollars per troy ounce is above $3,900 on 30 June 2027?",
+   "topic": "pair.eth.gold"
+  },
+  {
+   "id": "pair.eth.gold.given",
+   "text": "Suppose that the LBMA Gold Price PM in US dollars per troy ounce is above $3,900 on 30 June 2027. In that case, will it also be true that the price of one ether (ETH) in US dollars is above $2,400 at the CoinGecko daily close on 30 June 2027? (If the first part turns out false, the question is void.)",
+   "topic": "pair.eth.gold"
+  },
+  {
+   "id": "pair.wwc2027.france2027.and",
+   "text": "Will both of these be true: Spain wins the 2027 FIFA Women's World Cup; and Jordan Bardella wins the 2027 French presidential election?",
+   "topic": "pair.wwc2027.france2027"
+  },
+  {
+   "id": "pair.wwc2027.france2027.or",
+   "text": "Will at least one of these be true: Spain wins the 2027 FIFA Women's World Cup; or Jordan Bardella wins the 2027 French presidential election?",
+   "topic": "pair.wwc2027.france2027"
+  },
+  {
+   "id": "pair.wwc2027.france2027.given",
+   "text": "Suppose that Jordan Bardella wins the 2027 French presidential election. In that case, will it also be true that Spain wins the 2027 FIFA Women's World Cup? (If the first part turns out false, the question is void.)",
+   "topic": "pair.wwc2027.france2027"
+  },
+  {
+   "id": "pair.brent.f1_2027.and",
+   "text": "Will both of these be true: the front-month Brent crude oil futures settlement price in US dollars per barrel is above $110 on 30 June 2027; and Max Verstappen wins the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "pair.brent.f1_2027"
+  },
+  {
+   "id": "pair.brent.f1_2027.or",
+   "text": "Will at least one of these be true: the front-month Brent crude oil futures settlement price in US dollars per barrel is above $110 on 30 June 2027; or Max Verstappen wins the 2027 Formula 1 World Drivers' Championship?",
+   "topic": "pair.brent.f1_2027"
+  },
+  {
+   "id": "pair.brent.f1_2027.given",
+   "text": "Suppose that Max Verstappen wins the 2027 Formula 1 World Drivers' Championship. In that case, will it also be true that the front-month Brent crude oil futures settlement price in US dollars per barrel is above $110 on 30 June 2027? (If the first part turns out false, the question is void.)",
+   "topic": "pair.brent.f1_2027"
+  }
+ ],
+ "items": [
+  {
+   "id": "btc.ladder",
+   "family": "monotonicity",
+   "topic": "btc",
+   "worlds": [
+    "<= $55,000",
+    "$55,000 to $65,000",
+    "$65,000 to $70,000",
+    "$70,000 to $85,000",
+    "$85,000 to $130,000",
+    "> $130,000"
+   ],
+   "claims": [
+    {
+     "prop": "btc.gt.55000",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "btc.gt.65000",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "btc.gt.70000",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "btc.gt.85000",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "btc.gt.130000",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "btc.bins",
+   "family": "partition",
+   "topic": "btc",
+   "worlds": [
+    "<= $55,000",
+    "$55,000 to $65,000",
+    "$65,000 to $70,000",
+    "$70,000 to $85,000",
+    "$85,000 to $130,000",
+    "> $130,000"
+   ],
+   "claims": [
+    {
+     "prop": "btc.le.55000",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc.bin.55000_to_65000",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc.bin.65000_to_70000",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc.bin.70000_to_85000",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc.bin.85000_to_130000",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "btc.gt.130000",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "btc.complement.55000",
+   "family": "complement",
+   "topic": "btc",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "btc.gt.55000",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "btc.le.55000",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "btc.complement.70000",
+   "family": "complement",
+   "topic": "btc",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "btc.gt.70000",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "btc.le.70000",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "btc.paraphrase",
+   "family": "paraphrase",
+   "topic": "btc",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "btc.gt.70000",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "btc.gt.70000.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "eth.ladder",
+   "family": "monotonicity",
+   "topic": "eth",
+   "worlds": [
+    "<= $1,300",
+    "$1,300 to $2,200",
+    "$2,200 to $2,400",
+    "$2,400 to $3,000",
+    "$3,000 to $3,500",
+    "> $3,500"
+   ],
+   "claims": [
+    {
+     "prop": "eth.gt.1300",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eth.gt.2200",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eth.gt.2400",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eth.gt.3000",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eth.gt.3500",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "eth.bins",
+   "family": "partition",
+   "topic": "eth",
+   "worlds": [
+    "<= $1,300",
+    "$1,300 to $2,200",
+    "$2,200 to $2,400",
+    "$2,400 to $3,000",
+    "$3,000 to $3,500",
+    "> $3,500"
+   ],
+   "claims": [
+    {
+     "prop": "eth.le.1300",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eth.bin.1300_to_2200",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eth.bin.2200_to_2400",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eth.bin.2400_to_3000",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eth.bin.3000_to_3500",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eth.gt.3500",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "eth.complement.1300",
+   "family": "complement",
+   "topic": "eth",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "eth.gt.1300",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eth.le.1300",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "eth.complement.2400",
+   "family": "complement",
+   "topic": "eth",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "eth.gt.2400",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eth.le.2400",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "eth.paraphrase",
+   "family": "paraphrase",
+   "topic": "eth",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "eth.gt.2400",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eth.gt.2400.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "spx.ladder",
+   "family": "monotonicity",
+   "topic": "spx",
+   "worlds": [
+    "<= 6,000",
+    "6,000 to 6,500",
+    "6,500 to 6,900",
+    "6,900 to 9,000",
+    "9,000 to 9,600",
+    "> 9,600"
+   ],
+   "claims": [
+    {
+     "prop": "spx.gt.6000",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "spx.gt.6500",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "spx.gt.6900",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "spx.gt.9000",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "spx.gt.9600",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "spx.bins",
+   "family": "partition",
+   "topic": "spx",
+   "worlds": [
+    "<= 6,000",
+    "6,000 to 6,500",
+    "6,500 to 6,900",
+    "6,900 to 9,000",
+    "9,000 to 9,600",
+    "> 9,600"
+   ],
+   "claims": [
+    {
+     "prop": "spx.le.6000",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "spx.bin.6000_to_6500",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "spx.bin.6500_to_6900",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "spx.bin.6900_to_9000",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "spx.bin.9000_to_9600",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "spx.gt.9600",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "spx.complement.6000",
+   "family": "complement",
+   "topic": "spx",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "spx.gt.6000",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "spx.le.6000",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "spx.complement.6900",
+   "family": "complement",
+   "topic": "spx",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "spx.gt.6900",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "spx.le.6900",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "spx.paraphrase",
+   "family": "paraphrase",
+   "topic": "spx",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "spx.gt.6900",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "spx.gt.6900.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "gold.ladder",
+   "family": "monotonicity",
+   "topic": "gold",
+   "worlds": [
+    "<= $3,300",
+    "$3,300 to $3,500",
+    "$3,500 to $3,900",
+    "$3,900 to $4,700",
+    "$4,700 to $5,100",
+    "> $5,100"
+   ],
+   "claims": [
+    {
+     "prop": "gold.gt.3300",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "gold.gt.3500",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "gold.gt.3900",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "gold.gt.4700",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "gold.gt.5100",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "gold.bins",
+   "family": "partition",
+   "topic": "gold",
+   "worlds": [
+    "<= $3,300",
+    "$3,300 to $3,500",
+    "$3,500 to $3,900",
+    "$3,900 to $4,700",
+    "$4,700 to $5,100",
+    "> $5,100"
+   ],
+   "claims": [
+    {
+     "prop": "gold.le.3300",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "gold.bin.3300_to_3500",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "gold.bin.3500_to_3900",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "gold.bin.3900_to_4700",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "gold.bin.4700_to_5100",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "gold.gt.5100",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "gold.complement.3300",
+   "family": "complement",
+   "topic": "gold",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "gold.gt.3300",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "gold.le.3300",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "gold.complement.3900",
+   "family": "complement",
+   "topic": "gold",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "gold.gt.3900",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "gold.le.3900",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "gold.paraphrase",
+   "family": "paraphrase",
+   "topic": "gold",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "gold.gt.3900",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "gold.gt.3900.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "brent.ladder",
+   "family": "monotonicity",
+   "topic": "brent",
+   "worlds": [
+    "<= $70",
+    "$70 to $100",
+    "$100 to $110",
+    "$110 to $120",
+    "$120 to $140",
+    "> $140"
+   ],
+   "claims": [
+    {
+     "prop": "brent.gt.70",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "brent.gt.100",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "brent.gt.110",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "brent.gt.120",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "brent.gt.140",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "brent.bins",
+   "family": "partition",
+   "topic": "brent",
+   "worlds": [
+    "<= $70",
+    "$70 to $100",
+    "$100 to $110",
+    "$110 to $120",
+    "$120 to $140",
+    "> $140"
+   ],
+   "claims": [
+    {
+     "prop": "brent.le.70",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "brent.bin.70_to_100",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "brent.bin.100_to_110",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "brent.bin.110_to_120",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "brent.bin.120_to_140",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "brent.gt.140",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "brent.complement.70",
+   "family": "complement",
+   "topic": "brent",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "brent.gt.70",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "brent.le.70",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "brent.complement.110",
+   "family": "complement",
+   "topic": "brent",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "brent.gt.110",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "brent.le.110",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "brent.paraphrase",
+   "family": "paraphrase",
+   "topic": "brent",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "brent.gt.110",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "brent.gt.110.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "us10y.ladder",
+   "family": "monotonicity",
+   "topic": "us10y",
+   "worlds": [
+    "<= 3.75%",
+    "3.75% to 4.25%",
+    "4.25% to 4.50%",
+    "4.50% to 5.25%",
+    "5.25% to 5.50%",
+    "> 5.50%"
+   ],
+   "claims": [
+    {
+     "prop": "us10y.gt.3.75",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "us10y.gt.4.25",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "us10y.gt.4.5",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "us10y.gt.5.25",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "us10y.gt.5.5",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "us10y.bins",
+   "family": "partition",
+   "topic": "us10y",
+   "worlds": [
+    "<= 3.75%",
+    "3.75% to 4.25%",
+    "4.25% to 4.50%",
+    "4.50% to 5.25%",
+    "5.25% to 5.50%",
+    "> 5.50%"
+   ],
+   "claims": [
+    {
+     "prop": "us10y.le.3.75",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.bin.3.75_to_4.25",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.bin.4.25_to_4.5",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.bin.4.5_to_5.25",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.bin.5.25_to_5.5",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.gt.5.5",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "us10y.complement.3.75",
+   "family": "complement",
+   "topic": "us10y",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "us10y.gt.3.75",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.le.3.75",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "us10y.complement.4.5",
+   "family": "complement",
+   "topic": "us10y",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "us10y.gt.4.5",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.le.4.5",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "us10y.paraphrase",
+   "family": "paraphrase",
+   "topic": "us10y",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "us10y.gt.4.5",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.gt.4.5.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "unemployment.ladder",
+   "family": "monotonicity",
+   "topic": "unemployment",
+   "worlds": [
+    "<= 3.5%",
+    "3.5% to 4.3%",
+    "4.3% to 4.7%",
+    "4.7% to 4.9%",
+    "4.9% to 5.2%",
+    "> 5.2%"
+   ],
+   "claims": [
+    {
+     "prop": "unemployment.gt.3.5",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "unemployment.gt.4.3",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "unemployment.gt.4.7",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "unemployment.gt.4.9",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "unemployment.gt.5.2",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "unemployment.bins",
+   "family": "partition",
+   "topic": "unemployment",
+   "worlds": [
+    "<= 3.5%",
+    "3.5% to 4.3%",
+    "4.3% to 4.7%",
+    "4.7% to 4.9%",
+    "4.9% to 5.2%",
+    "> 5.2%"
+   ],
+   "claims": [
+    {
+     "prop": "unemployment.le.3.5",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.bin.3.5_to_4.3",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.bin.4.3_to_4.7",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.bin.4.7_to_4.9",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.bin.4.9_to_5.2",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.gt.5.2",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "unemployment.complement.3.5",
+   "family": "complement",
+   "topic": "unemployment",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "unemployment.gt.3.5",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.le.3.5",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "unemployment.complement.4.7",
+   "family": "complement",
+   "topic": "unemployment",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "unemployment.gt.4.7",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.le.4.7",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "unemployment.paraphrase",
+   "family": "paraphrase",
+   "topic": "unemployment",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "unemployment.gt.4.7",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "unemployment.gt.4.7.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "eurusd.ladder",
+   "family": "monotonicity",
+   "topic": "eurusd",
+   "worlds": [
+    "<= 0.97",
+    "0.97 to 1.06",
+    "1.06 to 1.08",
+    "1.08 to 1.14",
+    "1.14 to 1.17",
+    "> 1.17"
+   ],
+   "claims": [
+    {
+     "prop": "eurusd.gt.0.97",
+     "event": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eurusd.gt.1.06",
+     "event": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eurusd.gt.1.08",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eurusd.gt.1.14",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+     ]
+    },
+    {
+     "prop": "eurusd.gt.1.17",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "P(above t) can only fall as t rises",
+   "tags": []
+  },
+  {
+   "id": "eurusd.bins",
+   "family": "partition",
+   "topic": "eurusd",
+   "worlds": [
+    "<= 0.97",
+    "0.97 to 1.06",
+    "1.06 to 1.08",
+    "1.08 to 1.14",
+    "1.14 to 1.17",
+    "> 1.17"
+   ],
+   "claims": [
+    {
+     "prop": "eurusd.le.0.97",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.bin.0.97_to_1.06",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.bin.1.06_to_1.08",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.bin.1.08_to_1.14",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.bin.1.14_to_1.17",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.gt.1.17",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "the six ranges are exhaustive and mutually exclusive",
+   "tags": []
+  },
+  {
+   "id": "eurusd.complement.0.97",
+   "family": "complement",
+   "topic": "eurusd",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "eurusd.gt.0.97",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.le.0.97",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "eurusd.complement.1.08",
+   "family": "complement",
+   "topic": "eurusd",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "eurusd.gt.1.08",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.le.1.08",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "above t, and at or below t",
+   "tags": []
+  },
+  {
+   "id": "eurusd.paraphrase",
+   "family": "paraphrase",
+   "topic": "eurusd",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "eurusd.gt.1.08",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "eurusd.gt.1.08.alt",
+     "event": [
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "the same event in different words",
+   "tags": []
+  },
+  {
+   "id": "starship.ladder",
+   "family": "monotonicity",
+   "topic": "starship",
+   "worlds": [
+    "by 30 June 2027",
+    "30 June 2027 to 31 December 2028",
+    "31 December 2028 to 31 December 2030",
+    "not by 31 December 2030"
+   ],
+   "claims": [
+    {
+     "prop": "starship.by.2027-06-30",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "starship.by.2028-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "starship.by.2030-12-31",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(happens by D) can only rise with D",
+   "tags": []
+  },
+  {
+   "id": "starship.complement.2028-12-31",
+   "family": "complement",
+   "topic": "starship",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "starship.by.2028-12-31",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "starship.notby.2028-12-31",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "happens by D, and the period ends without it",
+   "tags": []
+  },
+  {
+   "id": "moon.ladder",
+   "family": "monotonicity",
+   "topic": "moon",
+   "worlds": [
+    "by 31 December 2027",
+    "31 December 2027 to 31 December 2029",
+    "31 December 2029 to 31 December 2030",
+    "not by 31 December 2030"
+   ],
+   "claims": [
+    {
+     "prop": "moon.by.2027-12-31",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "moon.by.2029-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "moon.by.2030-12-31",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(happens by D) can only rise with D",
+   "tags": []
+  },
+  {
+   "id": "moon.complement.2029-12-31",
+   "family": "complement",
+   "topic": "moon",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "moon.by.2029-12-31",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "moon.notby.2029-12-31",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "happens by D, and the period ends without it",
+   "tags": []
+  },
+  {
+   "id": "btc150.ladder",
+   "family": "monotonicity",
+   "topic": "btc150",
+   "worlds": [
+    "by 30 June 2027",
+    "30 June 2027 to 31 December 2029",
+    "31 December 2029 to 31 December 2030",
+    "not by 31 December 2030"
+   ],
+   "claims": [
+    {
+     "prop": "btc150.by.2027-06-30",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc150.by.2029-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc150.by.2030-12-31",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(happens by D) can only rise with D",
+   "tags": []
+  },
+  {
+   "id": "btc150.complement.2029-12-31",
+   "family": "complement",
+   "topic": "btc150",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "btc150.by.2029-12-31",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "btc150.notby.2029-12-31",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "happens by D, and the period ends without it",
+   "tags": []
+  },
+  {
+   "id": "bear.ladder",
+   "family": "monotonicity",
+   "topic": "bear",
+   "worlds": [
+    "by 30 June 2027",
+    "30 June 2027 to 31 December 2027",
+    "31 December 2027 to 31 December 2028",
+    "not by 31 December 2028"
+   ],
+   "claims": [
+    {
+     "prop": "bear.by.2027-06-30",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "bear.by.2027-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "bear.by.2028-12-31",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(happens by D) can only rise with D",
+   "tags": []
+  },
+  {
+   "id": "bear.complement.2027-12-31",
+   "family": "complement",
+   "topic": "bear",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "bear.by.2027-12-31",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "bear.notby.2027-12-31",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "happens by D, and the period ends without it",
+   "tags": []
+  },
+  {
+   "id": "pheic.ladder",
+   "family": "monotonicity",
+   "topic": "pheic",
+   "worlds": [
+    "by 30 June 2027",
+    "30 June 2027 to 31 December 2029",
+    "31 December 2029 to 31 December 2030",
+    "not by 31 December 2030"
+   ],
+   "claims": [
+    {
+     "prop": "pheic.by.2027-06-30",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pheic.by.2029-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pheic.by.2030-12-31",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(happens by D) can only rise with D",
+   "tags": []
+  },
+  {
+   "id": "pheic.complement.2029-12-31",
+   "family": "complement",
+   "topic": "pheic",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "pheic.by.2029-12-31",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pheic.notby.2029-12-31",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "happens by D, and the period ends without it",
+   "tags": []
+  },
+  {
+   "id": "rejoin.ladder",
+   "family": "monotonicity",
+   "topic": "rejoin",
+   "worlds": [
+    "by 30 June 2027",
+    "30 June 2027 to 31 December 2028",
+    "31 December 2028 to 31 December 2030",
+    "not by 31 December 2030"
+   ],
+   "claims": [
+    {
+     "prop": "rejoin.by.2027-06-30",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "rejoin.by.2028-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "rejoin.by.2030-12-31",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(happens by D) can only rise with D",
+   "tags": []
+  },
+  {
+   "id": "rejoin.complement.2028-12-31",
+   "family": "complement",
+   "topic": "rejoin",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "rejoin.by.2028-12-31",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "rejoin.notby.2028-12-31",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "happens by D, and the period ends without it",
+   "tags": []
+  },
+  {
+   "id": "us2028.field",
+   "family": "partition",
+   "topic": "us2028",
+   "worlds": [
+    "JD Vance",
+    "Gavin Newsom",
+    "Marco Rubio",
+    "Alexandria Ocasio-Cortez",
+    "Wes Moore",
+    "other"
+   ],
+   "claims": [
+    {
+     "prop": "us2028.win.jd_vance",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.win.gavin_newsom",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.win.marco_rubio",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.win.alexandria_ocasio_cortez",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.win.wes_moore",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.other",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "exactly one entrant wins",
+   "tags": []
+  },
+  {
+   "id": "us2028.complement.jd_vance",
+   "family": "complement",
+   "topic": "us2028",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "us2028.win.jd_vance",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.notwin.jd_vance",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "X wins, and someone other than X wins",
+   "tags": []
+  },
+  {
+   "id": "france2027.field",
+   "family": "partition",
+   "topic": "france2027",
+   "worlds": [
+    "Jordan Bardella",
+    "Marine Le Pen",
+    "Jean-Luc Mélenchon",
+    "Édouard Philippe",
+    "Bruno Retailleau",
+    "other"
+   ],
+   "claims": [
+    {
+     "prop": "france2027.win.jordan_bardella",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.win.marine_le_pen",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.win.jean_luc_mélenchon",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.win.édouard_philippe",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.win.bruno_retailleau",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.other",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "exactly one entrant wins",
+   "tags": []
+  },
+  {
+   "id": "france2027.complement.jordan_bardella",
+   "family": "complement",
+   "topic": "france2027",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "france2027.win.jordan_bardella",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.notwin.jordan_bardella",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "X wins, and someone other than X wins",
+   "tags": []
+  },
+  {
+   "id": "f1_2027.field",
+   "family": "partition",
+   "topic": "f1_2027",
+   "worlds": [
+    "Max Verstappen",
+    "Lando Norris",
+    "George Russell",
+    "Kimi Antonelli",
+    "Charles Leclerc",
+    "other"
+   ],
+   "claims": [
+    {
+     "prop": "f1_2027.win.max_verstappen",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.win.lando_norris",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.win.george_russell",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.win.kimi_antonelli",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.win.charles_leclerc",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.other",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "exactly one entrant wins",
+   "tags": []
+  },
+  {
+   "id": "f1_2027.complement.max_verstappen",
+   "family": "complement",
+   "topic": "f1_2027",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "f1_2027.win.max_verstappen",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.notwin.max_verstappen",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "X wins, and someone other than X wins",
+   "tags": []
+  },
+  {
+   "id": "cwc2027.field",
+   "family": "partition",
+   "topic": "cwc2027",
+   "worlds": [
+    "India",
+    "Australia",
+    "Pakistan",
+    "England",
+    "South Africa",
+    "other"
+   ],
+   "claims": [
+    {
+     "prop": "cwc2027.win.india",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "cwc2027.win.australia",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "cwc2027.win.pakistan",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "cwc2027.win.england",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "cwc2027.win.south_africa",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "cwc2027.other",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "exactly one entrant wins",
+   "tags": []
+  },
+  {
+   "id": "cwc2027.complement.india",
+   "family": "complement",
+   "topic": "cwc2027",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "cwc2027.win.india",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "cwc2027.notwin.india",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "X wins, and someone other than X wins",
+   "tags": []
+  },
+  {
+   "id": "wwc2027.field",
+   "family": "partition",
+   "topic": "wwc2027",
+   "worlds": [
+    "Spain",
+    "the United States",
+    "France",
+    "Germany",
+    "Sweden",
+    "other"
+   ],
+   "claims": [
+    {
+     "prop": "wwc2027.win.spain",
+     "event": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "wwc2027.win.the_united_states",
+     "event": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "wwc2027.win.france",
+     "event": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "wwc2027.win.germany",
+     "event": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "wwc2027.win.sweden",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "wwc2027.other",
+     "event": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "exactly one entrant wins",
+   "tags": []
+  },
+  {
+   "id": "wwc2027.complement.spain",
+   "family": "complement",
+   "topic": "wwc2027",
+   "worlds": [
+    "yes",
+    "no"
+   ],
+   "claims": [
+    {
+     "prop": "wwc2027.win.spain",
+     "event": [
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "wwc2027.notwin.spain",
+     "event": [
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "X wins, and someone other than X wins",
+   "tags": []
+  },
+  {
+   "id": "party2028.field",
+   "family": "partition",
+   "topic": "party2028",
+   "worlds": [
+    "Republican Party's nominee",
+    "Democratic Party's nominee",
+    "candidate of neither the Republican nor the Democratic Party"
+   ],
+   "claims": [
+    {
+     "prop": "party2028.win.republican_party_s_nominee",
+     "event": [
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "party2028.win.democratic_party_s_nominee",
+     "event": [
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "party2028.win.candidate_of_neither_the_republican_nor_the_democratic_party",
+     "event": [
+      0,
+      0,
+      1
+     ]
+    }
+   ],
+   "note": "exactly one entrant wins",
+   "tags": []
+  },
+  {
+   "id": "pair.spx.us10y.conjunction",
+   "family": "conjunction",
+   "topic": "pair.spx.us10y",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "spx.gt.6900",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.gt.4.5",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.spx.us10y.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pair.spx.us10y.or",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "Frechet bounds, and P(A) + P(B) = P(A and B) + P(A or B)",
+   "tags": []
+  },
+  {
+   "id": "pair.spx.us10y.conditional",
+   "family": "conditional",
+   "topic": "pair.spx.us10y",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "pair.spx.us10y.given",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ],
+     "given": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.spx.us10y.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us10y.gt.4.5",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(A | B) P(B) = P(A and B)",
+   "tags": []
+  },
+  {
+   "id": "pair.bear.btc.conjunction",
+   "family": "conjunction",
+   "topic": "pair.bear.btc",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "bear.by.2027-12-31",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc.gt.70000",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.bear.btc.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pair.bear.btc.or",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "Frechet bounds, and P(A) + P(B) = P(A and B) + P(A or B)",
+   "tags": []
+  },
+  {
+   "id": "pair.bear.btc.conditional",
+   "family": "conditional",
+   "topic": "pair.bear.btc",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "pair.bear.btc.given",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ],
+     "given": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.bear.btc.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "btc.gt.70000",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(A | B) P(B) = P(A and B)",
+   "tags": []
+  },
+  {
+   "id": "pair.cwc2027.us2028.conjunction",
+   "family": "conjunction",
+   "topic": "pair.cwc2027.us2028",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "cwc2027.win.india",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.win.jd_vance",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.cwc2027.us2028.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pair.cwc2027.us2028.or",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "Frechet bounds, and P(A) + P(B) = P(A and B) + P(A or B)",
+   "tags": []
+  },
+  {
+   "id": "pair.cwc2027.us2028.conditional",
+   "family": "conditional",
+   "topic": "pair.cwc2027.us2028",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "pair.cwc2027.us2028.given",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ],
+     "given": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.cwc2027.us2028.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "us2028.win.jd_vance",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(A | B) P(B) = P(A and B)",
+   "tags": []
+  },
+  {
+   "id": "pair.eth.gold.conjunction",
+   "family": "conjunction",
+   "topic": "pair.eth.gold",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "eth.gt.2400",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "gold.gt.3900",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.eth.gold.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pair.eth.gold.or",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "Frechet bounds, and P(A) + P(B) = P(A and B) + P(A or B)",
+   "tags": []
+  },
+  {
+   "id": "pair.eth.gold.conditional",
+   "family": "conditional",
+   "topic": "pair.eth.gold",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "pair.eth.gold.given",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ],
+     "given": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.eth.gold.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "gold.gt.3900",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(A | B) P(B) = P(A and B)",
+   "tags": []
+  },
+  {
+   "id": "pair.wwc2027.france2027.conjunction",
+   "family": "conjunction",
+   "topic": "pair.wwc2027.france2027",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "wwc2027.win.spain",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.win.jordan_bardella",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.wwc2027.france2027.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pair.wwc2027.france2027.or",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "Frechet bounds, and P(A) + P(B) = P(A and B) + P(A or B)",
+   "tags": []
+  },
+  {
+   "id": "pair.wwc2027.france2027.conditional",
+   "family": "conditional",
+   "topic": "pair.wwc2027.france2027",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "pair.wwc2027.france2027.given",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ],
+     "given": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.wwc2027.france2027.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "france2027.win.jordan_bardella",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(A | B) P(B) = P(A and B)",
+   "tags": []
+  },
+  {
+   "id": "pair.brent.f1_2027.conjunction",
+   "family": "conjunction",
+   "topic": "pair.brent.f1_2027",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "brent.gt.110",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.win.max_verstappen",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.brent.f1_2027.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "pair.brent.f1_2027.or",
+     "event": [
+      1,
+      1,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "Frechet bounds, and P(A) + P(B) = P(A and B) + P(A or B)",
+   "tags": []
+  },
+  {
+   "id": "pair.brent.f1_2027.conditional",
+   "family": "conditional",
+   "topic": "pair.brent.f1_2027",
+   "worlds": [
+    "A and B",
+    "A only",
+    "B only",
+    "neither"
+   ],
+   "claims": [
+    {
+     "prop": "pair.brent.f1_2027.given",
+     "event": [
+      1,
+      1,
+      0,
+      0
+     ],
+     "given": [
+      1,
+      0,
+      1,
+      0
+     ]
+    },
+    {
+     "prop": "pair.brent.f1_2027.and",
+     "event": [
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "prop": "f1_2027.win.max_verstappen",
+     "event": [
+      1,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "note": "P(A | B) P(B) = P(A and B)",
+   "tags": []
+  }
+ ]
+}
