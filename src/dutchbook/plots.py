@@ -329,3 +329,46 @@ def markets(
     ax.legend(fontsize=8, loc="lower right")
     ax.set_title("Polymarket mids vs models, partitions and ladders")
     _save(fig, path)
+
+
+def bins_vs_ladder(
+    models: Sequence[ModelScore],
+    points: Sequence[list[tuple[float, float]]],
+    path: Path,
+) -> None:
+    """Each range bin as asked (y) against the same bin implied by the ladder (x)."""
+    fig, axes = plt.subplots(1, len(models), figsize=(2.6 * len(models), 3.0), sharey=True)
+    axes = np.atleast_1d(axes)
+    for ax, m, pts in zip(axes, models, points, strict=True):
+        xs = np.array([p[0] for p in pts])
+        ys = np.array([p[1] for p in pts])
+        ax.plot([0, 1], [0, 1], color=INK, lw=1)
+        above = ys > xs
+        ax.scatter(xs[above], ys[above], s=18, color=BLUE, marker="o", linewidths=0)
+        ax.scatter(xs[~above], ys[~above], s=18, color=ORANGE, marker="D", linewidths=0)
+        ax.text(
+            0.04,
+            0.96,
+            f"{above.mean():.0%} above the line",
+            transform=ax.transAxes,
+            fontsize=8,
+            color=MUTED,
+            va="top",
+        )
+        ax.set_xlim(-0.02, 0.8)
+        ax.set_ylim(-0.02, 0.8)
+        ax.set_aspect("equal")
+        ax.set_title(m.model.replace("claude-", ""), fontsize=10)
+        ax.grid(color=GRID, lw=0.6)
+        ax.set_axisbelow(True)
+    axes[0].set_ylabel("P(range) asked directly")
+    axes[len(axes) // 2].set_xlabel("P(range) implied by the same model's ladder")
+    fig.suptitle(
+        "Range questions get more probability than the ladder leaves for them",
+        x=0.01,
+        ha="left",
+        fontweight="bold",
+        fontsize=11,
+    )
+    fig.tight_layout()
+    _save(fig, path)

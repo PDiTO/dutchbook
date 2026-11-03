@@ -99,6 +99,9 @@ def build_report(
         plots.retest(models, model_samples, img / "retest.svg")
         plots.partition_sums(models, _partition_labels(bank), img / "partition-sums.svg")
         _ladder_charts(bank, models, model_samples, img)
+        plots.bins_vs_ladder(
+            models, [bin_points(bank, s) for s in model_samples], img / "bins-vs-ladder.svg"
+        )
         if market_books:
             plots.markets(
                 {
@@ -331,6 +334,30 @@ def _ladder_charts(
         "P(bitcoin above $X on 30 June 2027): each dot one ask, line the mean",
         img / "ladder-btc.svg",
     )
+
+
+def bin_points(bank: Bank, samples: Samples) -> list[tuple[float, float]]:
+    """(implied by ladder, asked) for every range bin except the top one.
+
+    The top bin is the same question as the top rung, so it is left out. The bottom
+    bin, "at or below t1", is implied as 1 - P(above t1).
+    """
+    mean = {p: float(np.mean(v)) for p, v in samples.items() if v}
+    out = []
+    for item in bank.items:
+        if item.family != "partition" or item.topic not in QUANTITY_KEYS:
+            continue
+        ladder = next(i for i in bank.items if i.id == f"{item.topic}.ladder")
+        rungs = [mean.get(p) for p in ladder.props]
+        for claim in item.claims[:-1]:
+            asked = mean.get(claim.prop)
+            world = claim.event.index(1)
+            above_lo = 1.0 if world == 0 else rungs[world - 1]
+            above_hi = rungs[world]
+            if asked is None or above_lo is None or above_hi is None:
+                continue
+            out.append((above_lo - above_hi, asked))
+    return out
 
 
 def _row(m: ModelScore, metrics: Sequence[str]) -> list[str]:

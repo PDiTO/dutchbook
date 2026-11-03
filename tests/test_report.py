@@ -48,6 +48,7 @@ def test_writes_every_output(built: tuple[Path, dict[str, object]]) -> None:
         "retest",
         "partition-sums",
         "ladder-btc",
+        "bins-vs-ladder",
         "markets",
     ):
         svg = (root / "docs" / "img" / f"{name}.svg").read_text()
